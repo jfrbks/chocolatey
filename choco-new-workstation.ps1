@@ -26,4 +26,4 @@ $Shortcut.Save()
 choco install rvtools -y
 choco install vlc -y
 choco install win32diskimager -y
-choco install yakyak --ignore-checksums -y
+
